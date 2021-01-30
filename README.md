@@ -1,4 +1,5 @@
-# Welcome to Intro to Git Workshop 
+# Intro to Git
+### Girls in Tech - SFO Workshop
 
 ## Goals
 ### Setup
@@ -18,4 +19,5 @@
 
 
 
-
+**Feel Free to reach out with any questions or comments***  
+--Neelima Potharaj
