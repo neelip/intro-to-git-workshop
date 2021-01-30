@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Hi, {{ user.name }}!</h1>
+    {%for i in range(0, len) %} 
+  
+        <h2>{{questions[i]}} {{answers[i]}}</h2> 
+    {%endfor%} 
+{% endblock %}

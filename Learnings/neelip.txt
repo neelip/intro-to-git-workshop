@@ -1,0 +1,1 @@
+Git complexity is dependent on the project requirements it can range from easy to highly complex.

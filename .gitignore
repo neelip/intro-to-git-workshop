@@ -1,0 +1,6 @@
+venv/
+.vscode/settings.json
+app/__pycache__/
+.DS_Store
+
+
