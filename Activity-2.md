@@ -33,9 +33,9 @@ The best practice is to not make changes direclty on the produciton branch.
 #### Create a New Branch 
 1. In the Terminal, enter the following command to create & switch to a new branch:
    ```
-   git checkout -b "neelima/thoughts"
+   git checkout -b "neelima/learnings"
    ```
-2. In the Thoughts folder, open create a text file with your github id --> "neelip.txt".
+2. In the Learnings folder, open create a text file with your github id. Example: "neelip.txt"
    In this folder add your thoughts on what you have learned today and save the file.
 
 #### Stage and Commit changes
@@ -43,9 +43,9 @@ The best practice is to not make changes direclty on the produciton branch.
    ```
    git add .
    ```
-4. Commit staged files to master. Type this in Terminal:
+4. Commit staged files to master. Type this in Terminal (choose any message you like):
    ```
-   git commit -m "My thoughts on Git."
+   git commit -m "What I Learned about Git?."
    ```
 5. Check git log, your new commit should be added to the vlog:
    ```
