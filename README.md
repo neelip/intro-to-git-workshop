@@ -19,5 +19,5 @@
 
 
 
-**Feel Free to reach out with any questions or comments***  
+**Feel Free to reach out with any questions or comments**
 --Neelima Potharaj
